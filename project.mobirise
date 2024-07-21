@@ -38,7 +38,7 @@
     "versionFirst": "5.9.18",
     "siteFonts": [],
     "favicon": false,
-    "mbrsiteDomain": "yer0wdecby",
+    "mbrsiteDomain": "iyshklikon",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -47,6 +47,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
+    "publishEditFolder": true,
     "uniqCompNum": 53,
     "versionPublish": "5.9.18"
   },
